@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=5V Pin=R2-1
+Removed Pin From Net: NetName=NetOTCP1_1 Pin=R2-2
+Added Component: Designator=R2(Tro SMD 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005341"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0805 5% 470R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=R2-1
+Added Pin To Net: NetName=NetOTCP1_1 Pin=R2-2
+Added Member To Class: ClassName=SCH_Wash Member=Component R13 470R

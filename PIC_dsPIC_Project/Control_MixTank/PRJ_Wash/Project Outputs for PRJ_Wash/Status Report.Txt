@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PRJ_Wash.PrjPcb]
+   Generated File[PCB_WashVer2.TXT]
+   Generated File[PCB_WashVer2.LDP]
+   Generated File[PCB_WashVer2.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 1:09:40 PM On 12/31/2021

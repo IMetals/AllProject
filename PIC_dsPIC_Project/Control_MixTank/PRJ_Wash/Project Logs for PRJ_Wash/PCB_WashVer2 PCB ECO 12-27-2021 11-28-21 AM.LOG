@@ -1,0 +1,28 @@
+Added Component: Designator=L1(7SEG_3DIGIT_0.56INCH)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L2(7SEG_3DIGIT_0.56INCH)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_3 Pin=L1-3
+Added Pin To Net: NetName=NetL1_4 Pin=L1-4
+Added Pin To Net: NetName=NetL1_5 Pin=L1-5
+Added Pin To Net: NetName=NetL1_7 Pin=L1-7
+Added Pin To Net: NetName=C3 Pin=L1-8
+Added Pin To Net: NetName=C2 Pin=L1-9
+Added Pin To Net: NetName=NetL1_10 Pin=L1-10
+Added Pin To Net: NetName=NetL1_11 Pin=L1-11
+Added Pin To Net: NetName=C1 Pin=L1-12
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=NetL2_2 Pin=L2-2
+Added Pin To Net: NetName=NetL2_3 Pin=L2-3
+Added Pin To Net: NetName=NetL2_4 Pin=L2-4
+Added Pin To Net: NetName=NetL2_5 Pin=L2-5
+Added Pin To Net: NetName=NetL2_7 Pin=L2-7
+Added Pin To Net: NetName=C3 Pin=L2-8
+Added Pin To Net: NetName=C2 Pin=L2-9
+Added Pin To Net: NetName=NetL2_10 Pin=L2-10
+Added Pin To Net: NetName=NetL2_11 Pin=L2-11
+Added Pin To Net: NetName=C1 Pin=L2-12
+Added Member To Class: ClassName=SCH_Wash Member=Component L1 7SEG3DIG_0.56INCH
+Added Member To Class: ClassName=SCH_Wash Member=Component L2 7SEG3DIG_0.56INCH

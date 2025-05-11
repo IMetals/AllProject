@@ -1,0 +1,17 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F887 -DL -O11111114 -fo8 -N"H:\MikroC_PRO\Project\Lytam_system\Centrifugal_system\LED7SEG.mcppi" -SP"D:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"D:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"H:\MikroC_PRO\Project\Lytam_system\Centrifugal_system\" -IP"D:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -IP"H:\MikroC_PRO\Project\Lytam_system\Centrifugal_system\" "main.c" "U_74HC595.c" "init.c" "u_eeprom.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_Button.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	init.h
+diagnostics: 327	123	Compiled Successfully	main.c
+diagnostics: 0	122	Compilation Started	u_74hc595.h
+diagnostics: 62	123	Compiled Successfully	U_74HC595.c
+diagnostics: 0	122	Compilation Started	init.c
+diagnostics: 42	123	Compiled Successfully	init.c
+diagnostics: 0	122	Compilation Started	u_eeprom.h
+diagnostics: 28	123	Compiled Successfully	u_eeprom.c
+diagnostics: 0	127	All files Compiled in 297 ms	 
+hint: 0	1144	Used RAM (bytes): 28 (8%)  Free RAM (bytes): 324 (92%)	Used RAM (bytes): 28 (8%)  Free RAM (bytes): 324 (92%)
+hint: 0	1144	Used ROM (program words): 1165 (14%)  Free ROM (program words): 7027 (86%)	Used ROM (program words): 1165 (14%)  Free ROM (program words): 7027 (86%)
+diagnostics: 0	125	Project Linked Successfully	LED7SEG.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'LED7SEG.mcppi' completed: 344 ms	 
+diagnostics: 0	103	Finished successfully: 20 Apr 2022, 15:25:53	LED7SEG.mcppi

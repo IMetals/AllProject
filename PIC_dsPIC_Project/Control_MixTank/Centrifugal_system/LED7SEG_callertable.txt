@@ -1,0 +1,22 @@
+main
+	__CC2DW
+		____DoICP
+	init_timer0
+	EEPROM_ReadByte
+	EEPROM_WriteByte
+	stage1
+		seg7Print_led2
+			Div_16x16_S
+				Div_16x16_S_L
+		EEPROM_ReadByte
+		EEPROM_WriteByte
+	seg7Print_led2
+		Div_16x16_S
+			Div_16x16_S_L
+interrupt
+	HC595
+		____DoICP
+	latch_595
+	Led_Column3_ON
+	Led_Column2_ON
+	Led_Column1_ON

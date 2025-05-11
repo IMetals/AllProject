@@ -1,0 +1,6 @@
+Added Component: Designator=U?(TQFP64)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Mã LK"; Value = "-I/PT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tên"; Value = "PIC18f67k22"; VariantName = "[No Variations]"
+Added Class: Name=SCH_Wash
+Added Room: Name=SCH_Wash

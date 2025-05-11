@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=C1-1
+Removed Pin From Net: NetName=MOTOR2 Pin=C1-2
+Removed Pin From Net: NetName=NetC6_1 Pin=C6-1
+Removed Pin From Net: NetName=RELAY2 Pin=C6-2
+Removed Pin From Net: NetName=NetC7_1 Pin=C7-1
+Removed Pin From Net: NetName=VAN2 Pin=C7-2
+Added Component: Designator=C1(TU KEO 25MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C6(TU KEO 25MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C7(TU KEO 25MM)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=MOTOR2 Pin=C1-2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=RELAY2 Pin=C6-2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=VAN2 Pin=C7-2

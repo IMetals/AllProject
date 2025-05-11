@@ -1,0 +1,7 @@
+Added Component: Designator=B2(KBP310)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=B2-+
+Added Pin To Net: NetName=NetB2_- Pin=B2--
+Added Pin To Net: NetName=AC1 Pin=B2-~.
+Added Pin To Net: NetName=AC2 Pin=B2-~
+Added Member To Class: ClassName=SCH_Wash Member=Component B2 BridgeDiode

@@ -1,0 +1,31 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PRJ_Wash.PrjPcb|ReportField=ProjectFullPath~F:\Altium18\Project\PRJ_Wash\PRJ_Wash.PrjPcb|ReportField=Title~Bill of Materials For Project [PRJ_Wash.PrjPcb] (No PCB Document Selected)|ReportField=ReportTime~3:27:54 PM|ReportField=ReportDate~12/7/2021|ReportField=ReportDateTime~12/7/2021 3:27:54 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~74|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~12/7/2021|ReportField=CurrentTime~3:21:56 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~F:\Altium18\Project\PRJ_Wash\SCH_Wash.SchDoc|ReportField=DocumentName~SCH_Wash.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~12/7/2021|ReportField=Organization~|ReportField=ProjectName~PRJ_Wash.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PRJ_Wash.PrjPcb|ReportField=DataSourceFullPath~F:\Altium18\Project\PRJ_Wash\PRJ_Wash.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|PIC16F887-I/PT|PIC PICÂ® 16F Microcontroller IC 8-Bit 20MHz 14KB _8K x 14_ FLASH 44-TQFP _10x10_||QFP80P1200X1200X120-44N|PIC16F887-I/PT|1
+2|Led 7 Thanh 2.3 Inch Anot|Single 7 Seg Dipslay 29x41 mm|1, 2, 3, 4, 5, 6|LED 7 THANH X 1.8INCH|LED 7SEG 2.3Inch|6
+3|BridgeDiode||B, B1|DIOB_DB107S|DB107S|2
+4|BT137S-600E|Dán|BT1, BT2|TO252_NEW|BT137|2
+5|104|Dán|C1, C2, C8, C9|tu 0805|Tu 0805 104 50V 10%|4
+6|22pF|Dán|C3, C4|tu 0805|Tu 0805 22pF 50V 10%|2
+7|10uF|Dán|C5|tu nhom 4 (b)|Tu Nhom 10uF 16V|1
+8|1000uF|Dán|C6, C7|tu nhom 10 (G)|Tu Nhom 1000uF 16V|2
+9|SS14|Dán|D1|DIODE SMD|Diode SS14 ( 1N5819)|1
+10|Header 6P 2.54 Duc Cong|Cắm|H1|Header 6P DC 2.54|Header 6P 2.54 Duc Cong|1
+11|MOTOR|Cắm|KF1|CON 2KF 7.62 - 2P|CON 2 KF7.62_2P|1
+12|CON 2 KF 7.62|Cắm|KF1, KF3|CON 2KF 7.62 - 2P|CON 2 KF7.62_2P|2
+13|RELAY|Cắm|KF2|CON 2KF 7.62 - 2P|CON 2 KF7.62_2P|1
+14|OptoCouple||OTCP, OTCP1|OPTOCOUPLER_H11F3SR2M|MOC3020SM|2
+15|C1815|Dán|Q1, Q2, Q3, Q4|QTO-92|C1815|4
+16|330R|Dán|R1, R5|Tro SMD 0805|Tro 0805 5% 330R|2
+17|470R|Dán|R2|tro smd 0603|Tro 0603 5% 470R|1
+18|390R|Dán|R3|Tro SMD 0805|Tro 0805 5% 390R|1
+19|680R|Dán|R4|tro smd 0805|Tro 0805 1% 680R|1
+20|200R|Dán|R6|tro smd 0805|Tro 0805 5% 200R|1
+21|220R|Dán|R7|tro smd 0805|Tro 0805 5% 220R|1
+22|1k|Dán|R8, R19, R20, R21, R22, R23, R24, R25|tro smd 0805|Tro 0805 1% 1k|8
+23|470R|Dán|R9|Tro SMD 0805|Tro 0805 5% 470R|1
+24|10k|Dán|R10|tro smd 0805|Tro 0805 5% 10k|1
+25|100R|Dán|R11, R12, R13, R14, R15, R16, R17, R18, R26, R27, R28, R29, R30, R31, R32, R33|tro smd 0805|Tro 0805 5% 100R|16
+26|Nut Nhan 4 Chan|Cắm|SW1, SW2, SW3, SW4|SW4|Nut Nhan 4 Chan|4
+27|EL817S(D)(TU)|Optoisolator Transistor Output 5000Vrms 1 Channel 4-SMD|U|SOIC254P1030X460-4N|EL817S(D)(TU)|1
+28|78M05 SMD TO252|Dán|U1|TO252|78M05 SMD TO252|1
+29|74HC595|Dán|U2, U3|SO16 + SO16WM + SOIC16|74HC595|2
+30|16Mhz|Crystal For all Crystal 2pin.|Y1|Thach Anh 2 chan SMD|Thach Anh 2 chan SMD|1

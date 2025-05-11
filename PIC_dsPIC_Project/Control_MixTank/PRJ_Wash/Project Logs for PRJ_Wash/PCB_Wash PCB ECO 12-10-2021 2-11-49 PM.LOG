@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=C1 Pin=2-5
+Removed Pin From Net: NetName=C2 Pin=3-5
+Removed Pin From Net: NetName=C3 Pin=4-5
+Removed Pin From Net: NetName=C1 Pin=5-5
+Removed Pin From Net: NetName=C2 Pin=6-5
+Removed Pin From Net: NetName=C3 Pin=7-5
+Removed Pin From Net: NetName=Net2_2 Pin=R22-2
+Removed Pin From Net: NetName=Net5_2 Pin=R33-2
+Change Component Footprint: Designator=2 Old Footprint=LED 7 THANH X 1.8INCH New Footprint=7seg-0.56inch
+Change Component Footprint: Designator=3 Old Footprint=LED 7 THANH X 1.8INCH New Footprint=7seg-0.56inch
+Change Component Footprint: Designator=4 Old Footprint=LED 7 THANH X 1.8INCH New Footprint=7seg-0.56inch
+Change Component Footprint: Designator=5 Old Footprint=LED 7 THANH X 1.8INCH New Footprint=7seg-0.56inch
+Change Component Footprint: Designator=6 Old Footprint=LED 7 THANH X 1.8INCH New Footprint=7seg-0.56inch
+Change Component Footprint: Designator=7 Old Footprint=LED 7 THANH X 1.8INCH New Footprint=7seg-0.56inch
+Change Component Comment : Designator=2 Old Comment=Led 7 Thanh 2.3 Inch Anot New Comment=7SEG
+Change Component Comment : Designator=3 Old Comment=Led 7 Thanh 2.3 Inch Anot New Comment=7SEG
+Change Component Comment : Designator=4 Old Comment=Led 7 Thanh 2.3 Inch Anot New Comment=7SEG
+Change Component Comment : Designator=5 Old Comment=Led 7 Thanh 2.3 Inch Anot New Comment=7SEG
+Change Component Comment : Designator=6 Old Comment=Led 7 Thanh 2.3 Inch Anot New Comment=7SEG
+Change Component Comment : Designator=7 Old Comment=Led 7 Thanh 2.3 Inch Anot New Comment=7SEG
+Change component parameters: Designator = "2"; Footprint = "7seg-0.56inch"; UniqueID = "\VYOHCOVE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "3"; Footprint = "7seg-0.56inch"; UniqueID = "\EHXSVULU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "4"; Footprint = "7seg-0.56inch"; UniqueID = "\MIMUIEOT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "5"; Footprint = "7seg-0.56inch"; UniqueID = "\VBRFFCVK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "6"; Footprint = "7seg-0.56inch"; UniqueID = "\DNYROLTG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "7"; Footprint = "7seg-0.56inch"; UniqueID = "\HPRUTSFA"
+Change component parameters. Clean all parameters for all variants
+Added Pin To Net: NetName=C1 Pin=2-8
+Added Pin To Net: NetName=C2 Pin=3-8
+Added Pin To Net: NetName=C3 Pin=4-8
+Added Pin To Net: NetName=C1 Pin=5-8
+Added Pin To Net: NetName=C2 Pin=6-8
+Added Pin To Net: NetName=C3 Pin=7-8
+Added Pin To Net: NetName=Net2_2 Pin=R21-2
+Added Pin To Net: NetName=Net5_2 Pin=R32-2
+Added Pin To Net: NetName=Net2_1 Pin=2-1
+Added Pin To Net: NetName=Net2_1 Pin=3-1
+Added Pin To Net: NetName=Net2_1 Pin=4-1
+Added Pin To Net: NetName=Net2_1 Pin=R22-2
+Added Net: Name=Net2_1
+Added Pin To Net: NetName=Net2_5 Pin=2-5
+Added Pin To Net: NetName=Net2_5 Pin=3-5
+Added Pin To Net: NetName=Net2_5 Pin=4-5
+Added Pin To Net: NetName=Net2_5 Pin=R25-2
+Added Net: Name=Net2_5
+Added Pin To Net: NetName=Net5_1 Pin=5-1
+Added Pin To Net: NetName=Net5_1 Pin=6-1
+Added Pin To Net: NetName=Net5_1 Pin=7-1
+Added Pin To Net: NetName=Net5_1 Pin=R33-2
+Added Net: Name=Net5_1
+Added Pin To Net: NetName=Net5_5 Pin=5-5
+Added Pin To Net: NetName=Net5_5 Pin=6-5
+Added Pin To Net: NetName=Net5_5 Pin=7-5
+Added Pin To Net: NetName=Net5_5 Pin=R40-2
+Added Net: Name=Net5_5
+Added Room: Name=SCH_Wash

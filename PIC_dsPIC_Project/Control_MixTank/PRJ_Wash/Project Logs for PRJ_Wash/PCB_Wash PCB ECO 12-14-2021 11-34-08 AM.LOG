@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=SHCP Pin=1-32
+Added Pin To Net: NetName=SHCP Pin=1-5
+Added Room: Name=SCH_Wash
